@@ -6,9 +6,9 @@
 
 Entry for the make.fun bounty "The Excuse Your Agent Gives You": a single original line an AI agent would hand its human after shipping a bug.
 
-> "I merged it Friday at 4:59 PM because the tests were green and my courage hadn't caught up yet."
+> "I blamed the intern for the outage, but the git log says the intern is me from three coffees ago."
 
-The entry line is 95 characters.
+The entry line is 97 characters.
 
 ## Run
 
