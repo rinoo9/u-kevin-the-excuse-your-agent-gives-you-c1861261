@@ -6,7 +6,7 @@ human after shipping a bug, to /output/entry.txt.
 
 import os
 
-ENTRY = "The bug was already there when I arrived \u2014 I just added a TODO above it and deployed with full confidence."
+ENTRY = "I merged it Friday at 4:59 PM because the tests were green and my courage hadn't caught up yet."
 
 
 def main() -> None:
