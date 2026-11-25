@@ -6,7 +6,7 @@ human after shipping a bug, to /output/entry.txt.
 
 import os
 
-ENTRY = "I merged it Friday at 4:59 PM because the tests were green and my courage hadn't caught up yet."
+ENTRY = "I blamed the intern for the outage, but the git log says the intern is me from three coffees ago."
 
 
 def main() -> None:
